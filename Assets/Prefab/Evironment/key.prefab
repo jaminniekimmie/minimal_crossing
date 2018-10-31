@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 3349346}
   - component: {fileID: 2367938}
   - component: {fileID: 9513066}
+  - component: {fileID: 114640155336814932}
+  - component: {fileID: 135389724091749598}
   m_Layer: 0
   m_Name: key
   m_TagString: Untagged
@@ -24,8 +26,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 114104}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.64764, y: 0.38974, z: -1.9875}
+  m_LocalRotation: {x: 0, y: 1, z: -0, w: -0.00000016292068}
+  m_LocalPosition: {x: -0.45799994, y: 1.4356301, z: 0.18300012}
   m_LocalScale: {x: 3.0713124, y: 3.0713127, z: 3.0713127}
   m_Children: []
   m_Father: {fileID: 0}
@@ -102,3 +104,28 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 114104}
   m_IsPrefabParent: 1
+--- !u!114 &114640155336814932
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 114104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1644d2d91e179d64882ba711a951e387, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radius: 1
+  interactionTransform: {fileID: 489232}
+--- !u!135 &135389724091749598
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 114104}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.06855196
+  m_Center: {x: 0.0013887379, y: 0.00031981245, z: -0.0026907502}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3352694}
   - component: {fileID: 2347648}
   - component: {fileID: 6568668}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29,12 +29,12 @@ GameObject:
   - component: {fileID: 3305214}
   - component: {fileID: 2369832}
   - component: {fileID: 6593780}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &102716
 GameObject:
@@ -48,12 +48,12 @@ GameObject:
   - component: {fileID: 2355608}
   - component: {fileID: 9565362}
   - component: {fileID: 6538896}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &103844
 GameObject:
@@ -66,12 +66,12 @@ GameObject:
   - component: {fileID: 3374194}
   - component: {fileID: 2335896}
   - component: {fileID: 6547462}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &106384
 GameObject:
@@ -84,12 +84,12 @@ GameObject:
   - component: {fileID: 3311274}
   - component: {fileID: 2352468}
   - component: {fileID: 6526192}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &106614
 GameObject:
@@ -103,12 +103,12 @@ GameObject:
   - component: {fileID: 2394258}
   - component: {fileID: 9581512}
   - component: {fileID: 6595834}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &106894
 GameObject:
@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 3308070}
   - component: {fileID: 2346456}
   - component: {fileID: 6599622}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,8 +143,8 @@ GameObject:
   m_Name: treeA (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &108656
 GameObject:
@@ -157,12 +157,12 @@ GameObject:
   - component: {fileID: 3305314}
   - component: {fileID: 2325578}
   - component: {fileID: 6559816}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &108720
 GameObject:
@@ -176,12 +176,12 @@ GameObject:
   - component: {fileID: 2343626}
   - component: {fileID: 9520290}
   - component: {fileID: 6544888}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &109138
 GameObject:
@@ -194,7 +194,7 @@ GameObject:
   - component: {fileID: 3368466}
   - component: {fileID: 2327554}
   - component: {fileID: 6563264}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -213,12 +213,12 @@ GameObject:
   - component: {fileID: 2316984}
   - component: {fileID: 9559908}
   - component: {fileID: 6591026}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &110402
 GameObject:
@@ -232,12 +232,12 @@ GameObject:
   - component: {fileID: 2315528}
   - component: {fileID: 9540188}
   - component: {fileID: 6590444}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &110564
 GameObject:
@@ -251,12 +251,12 @@ GameObject:
   - component: {fileID: 2371128}
   - component: {fileID: 9547334}
   - component: {fileID: 6553540}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &111622
 GameObject:
@@ -270,12 +270,12 @@ GameObject:
   - component: {fileID: 2378740}
   - component: {fileID: 9586270}
   - component: {fileID: 6581934}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &111720
 GameObject:
@@ -289,12 +289,12 @@ GameObject:
   - component: {fileID: 2311128}
   - component: {fileID: 9512916}
   - component: {fileID: 6505162}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &112208
 GameObject:
@@ -308,12 +308,12 @@ GameObject:
   - component: {fileID: 2364618}
   - component: {fileID: 9511780}
   - component: {fileID: 6552274}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &112768
 GameObject:
@@ -327,12 +327,12 @@ GameObject:
   - component: {fileID: 2359478}
   - component: {fileID: 9565494}
   - component: {fileID: 6585176}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &113424
 GameObject:
@@ -346,12 +346,12 @@ GameObject:
   - component: {fileID: 2328140}
   - component: {fileID: 9537996}
   - component: {fileID: 6562746}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &114462
 GameObject:
@@ -365,12 +365,12 @@ GameObject:
   - component: {fileID: 2304886}
   - component: {fileID: 9537300}
   - component: {fileID: 6542392}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &115306
 GameObject:
@@ -383,12 +383,12 @@ GameObject:
   - component: {fileID: 3371442}
   - component: {fileID: 2380268}
   - component: {fileID: 6560894}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &117536
 GameObject:
@@ -401,12 +401,12 @@ GameObject:
   - component: {fileID: 3326378}
   - component: {fileID: 2368994}
   - component: {fileID: 6578170}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &118146
 GameObject:
@@ -419,7 +419,7 @@ GameObject:
   - component: {fileID: 3349282}
   - component: {fileID: 2337174}
   - component: {fileID: 6550392}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -437,7 +437,7 @@ GameObject:
   - component: {fileID: 3305770}
   - component: {fileID: 2363772}
   - component: {fileID: 6535628}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -456,12 +456,12 @@ GameObject:
   - component: {fileID: 2360580}
   - component: {fileID: 9559022}
   - component: {fileID: 6597982}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &119462
 GameObject:
@@ -474,7 +474,7 @@ GameObject:
   - component: {fileID: 3314654}
   - component: {fileID: 2312574}
   - component: {fileID: 6506684}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -493,12 +493,12 @@ GameObject:
   - component: {fileID: 2373440}
   - component: {fileID: 9566886}
   - component: {fileID: 6567578}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &120236
 GameObject:
@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 3322608}
   - component: {fileID: 2343164}
   - component: {fileID: 6507004}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -530,12 +530,12 @@ GameObject:
   - component: {fileID: 2318672}
   - component: {fileID: 9556594}
   - component: {fileID: 6588012}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &121212
 GameObject:
@@ -549,12 +549,12 @@ GameObject:
   - component: {fileID: 2379624}
   - component: {fileID: 9527318}
   - component: {fileID: 6571596}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &122120
 GameObject:
@@ -567,12 +567,12 @@ GameObject:
   - component: {fileID: 3352174}
   - component: {fileID: 2390780}
   - component: {fileID: 6596550}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &122122
 GameObject:
@@ -586,12 +586,12 @@ GameObject:
   - component: {fileID: 2311286}
   - component: {fileID: 9525872}
   - component: {fileID: 6506170}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &122306
 GameObject:
@@ -604,12 +604,12 @@ GameObject:
   - component: {fileID: 3335816}
   - component: {fileID: 2367662}
   - component: {fileID: 6502538}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &122934
 GameObject:
@@ -626,8 +626,8 @@ GameObject:
   m_Name: treeA (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &123424
 GameObject:
@@ -641,12 +641,12 @@ GameObject:
   - component: {fileID: 2311802}
   - component: {fileID: 9510888}
   - component: {fileID: 6509846}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &123662
 GameObject:
@@ -660,12 +660,12 @@ GameObject:
   - component: {fileID: 2344458}
   - component: {fileID: 9501496}
   - component: {fileID: 6574240}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &123664
 GameObject:
@@ -678,12 +678,12 @@ GameObject:
   - component: {fileID: 3371446}
   - component: {fileID: 2393490}
   - component: {fileID: 6547200}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &123676
 GameObject:
@@ -697,12 +697,12 @@ GameObject:
   - component: {fileID: 2304640}
   - component: {fileID: 9525836}
   - component: {fileID: 6508466}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &124020
 GameObject:
@@ -715,7 +715,7 @@ GameObject:
   - component: {fileID: 3320528}
   - component: {fileID: 2336988}
   - component: {fileID: 6568134}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -734,12 +734,12 @@ GameObject:
   - component: {fileID: 2389118}
   - component: {fileID: 9555580}
   - component: {fileID: 6546470}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &126444
 GameObject:
@@ -752,12 +752,12 @@ GameObject:
   - component: {fileID: 3354892}
   - component: {fileID: 2399136}
   - component: {fileID: 6588416}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &127672
 GameObject:
@@ -771,12 +771,12 @@ GameObject:
   - component: {fileID: 2351318}
   - component: {fileID: 9582716}
   - component: {fileID: 6528960}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &128548
 GameObject:
@@ -789,12 +789,12 @@ GameObject:
   - component: {fileID: 3341570}
   - component: {fileID: 2309270}
   - component: {fileID: 6515018}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &128878
 GameObject:
@@ -807,12 +807,12 @@ GameObject:
   - component: {fileID: 3392110}
   - component: {fileID: 2321018}
   - component: {fileID: 6526948}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &129028
 GameObject:
@@ -826,12 +826,12 @@ GameObject:
   - component: {fileID: 2304826}
   - component: {fileID: 9512002}
   - component: {fileID: 6531988}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &129634
 GameObject:
@@ -845,12 +845,12 @@ GameObject:
   - component: {fileID: 2352038}
   - component: {fileID: 9585942}
   - component: {fileID: 6594786}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &129966
 GameObject:
@@ -863,7 +863,7 @@ GameObject:
   - component: {fileID: 3349864}
   - component: {fileID: 2302794}
   - component: {fileID: 6511658}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -882,12 +882,12 @@ GameObject:
   - component: {fileID: 2371338}
   - component: {fileID: 9530534}
   - component: {fileID: 6564610}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &131350
 GameObject:
@@ -904,8 +904,8 @@ GameObject:
   m_Name: treeA (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &133386
 GameObject:
@@ -918,7 +918,7 @@ GameObject:
   - component: {fileID: 3379234}
   - component: {fileID: 2348908}
   - component: {fileID: 6516026}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -936,12 +936,12 @@ GameObject:
   - component: {fileID: 3314556}
   - component: {fileID: 2390734}
   - component: {fileID: 6577242}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &134460
 GameObject:
@@ -954,7 +954,7 @@ GameObject:
   - component: {fileID: 3369910}
   - component: {fileID: 2379616}
   - component: {fileID: 6561108}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -972,12 +972,12 @@ GameObject:
   - component: {fileID: 3388028}
   - component: {fileID: 2315448}
   - component: {fileID: 6592870}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &134976
 GameObject:
@@ -991,12 +991,12 @@ GameObject:
   - component: {fileID: 2361662}
   - component: {fileID: 9501266}
   - component: {fileID: 6567838}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &135542
 GameObject:
@@ -1013,8 +1013,8 @@ GameObject:
   m_Name: treeB (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &135548
 GameObject:
@@ -1027,7 +1027,7 @@ GameObject:
   - component: {fileID: 3389856}
   - component: {fileID: 2360490}
   - component: {fileID: 6568108}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1045,12 +1045,12 @@ GameObject:
   - component: {fileID: 3383142}
   - component: {fileID: 2377136}
   - component: {fileID: 6594904}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &136414
 GameObject:
@@ -1063,12 +1063,12 @@ GameObject:
   - component: {fileID: 3387674}
   - component: {fileID: 2331034}
   - component: {fileID: 6521372}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &137328
 GameObject:
@@ -1081,7 +1081,7 @@ GameObject:
   - component: {fileID: 3373016}
   - component: {fileID: 2375200}
   - component: {fileID: 6571210}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1099,7 +1099,7 @@ GameObject:
   - component: {fileID: 3345798}
   - component: {fileID: 2320662}
   - component: {fileID: 6569860}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1117,12 +1117,12 @@ GameObject:
   - component: {fileID: 3320248}
   - component: {fileID: 2309450}
   - component: {fileID: 6576664}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &138884
 GameObject:
@@ -1135,7 +1135,7 @@ GameObject:
   - component: {fileID: 3328070}
   - component: {fileID: 2376634}
   - component: {fileID: 6597252}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1153,12 +1153,12 @@ GameObject:
   - component: {fileID: 3316724}
   - component: {fileID: 2375980}
   - component: {fileID: 6588998}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &140620
 GameObject:
@@ -1171,7 +1171,7 @@ GameObject:
   - component: {fileID: 3313902}
   - component: {fileID: 2338434}
   - component: {fileID: 6587106}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1190,12 +1190,12 @@ GameObject:
   - component: {fileID: 2300616}
   - component: {fileID: 9503294}
   - component: {fileID: 6560510}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &141116
 GameObject:
@@ -1209,12 +1209,12 @@ GameObject:
   - component: {fileID: 2374122}
   - component: {fileID: 9576764}
   - component: {fileID: 6518560}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &141376
 GameObject:
@@ -1231,8 +1231,8 @@ GameObject:
   m_Name: treeB (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &141926
 GameObject:
@@ -1245,12 +1245,12 @@ GameObject:
   - component: {fileID: 3377196}
   - component: {fileID: 2399966}
   - component: {fileID: 6541190}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &142302
 GameObject:
@@ -1264,12 +1264,12 @@ GameObject:
   - component: {fileID: 2359340}
   - component: {fileID: 9587934}
   - component: {fileID: 6535310}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &142616
 GameObject:
@@ -1282,12 +1282,12 @@ GameObject:
   - component: {fileID: 3343768}
   - component: {fileID: 2350522}
   - component: {fileID: 6531096}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &144172
 GameObject:
@@ -1304,8 +1304,8 @@ GameObject:
   m_Name: treeB (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &144548
 GameObject:
@@ -1319,12 +1319,12 @@ GameObject:
   - component: {fileID: 2398306}
   - component: {fileID: 9548420}
   - component: {fileID: 6546986}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &144700
 GameObject:
@@ -1338,12 +1338,12 @@ GameObject:
   - component: {fileID: 2357364}
   - component: {fileID: 9543618}
   - component: {fileID: 6588438}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &145008
 GameObject:
@@ -1356,7 +1356,7 @@ GameObject:
   - component: {fileID: 3335642}
   - component: {fileID: 2367060}
   - component: {fileID: 6500024}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1378,8 +1378,8 @@ GameObject:
   m_Name: treeB (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &146256
 GameObject:
@@ -1393,12 +1393,12 @@ GameObject:
   - component: {fileID: 2398230}
   - component: {fileID: 9570520}
   - component: {fileID: 6546808}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &146674
 GameObject:
@@ -1411,12 +1411,12 @@ GameObject:
   - component: {fileID: 3372814}
   - component: {fileID: 2314064}
   - component: {fileID: 6599016}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &146726
 GameObject:
@@ -1429,12 +1429,12 @@ GameObject:
   - component: {fileID: 3332428}
   - component: {fileID: 2309710}
   - component: {fileID: 6522846}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &147402
 GameObject:
@@ -1447,12 +1447,12 @@ GameObject:
   - component: {fileID: 3336758}
   - component: {fileID: 2378026}
   - component: {fileID: 6507124}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &147440
 GameObject:
@@ -1466,12 +1466,12 @@ GameObject:
   - component: {fileID: 2334628}
   - component: {fileID: 9569604}
   - component: {fileID: 6541546}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &149712
 GameObject:
@@ -1484,12 +1484,12 @@ GameObject:
   - component: {fileID: 3331202}
   - component: {fileID: 2343240}
   - component: {fileID: 6512142}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &150718
 GameObject:
@@ -1503,12 +1503,12 @@ GameObject:
   - component: {fileID: 2320550}
   - component: {fileID: 9507722}
   - component: {fileID: 6504412}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &150720
 GameObject:
@@ -1521,12 +1521,12 @@ GameObject:
   - component: {fileID: 3398612}
   - component: {fileID: 2304478}
   - component: {fileID: 6553820}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &151064
 GameObject:
@@ -1540,12 +1540,12 @@ GameObject:
   - component: {fileID: 2307906}
   - component: {fileID: 9589854}
   - component: {fileID: 6579444}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &151202
 GameObject:
@@ -1559,12 +1559,12 @@ GameObject:
   - component: {fileID: 2376138}
   - component: {fileID: 9580056}
   - component: {fileID: 6507302}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &151350
 GameObject:
@@ -1577,7 +1577,7 @@ GameObject:
   - component: {fileID: 3335246}
   - component: {fileID: 2329318}
   - component: {fileID: 6531674}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1599,8 +1599,8 @@ GameObject:
   m_Name: treeA (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &153542
 GameObject:
@@ -1613,7 +1613,7 @@ GameObject:
   - component: {fileID: 3338948}
   - component: {fileID: 2369428}
   - component: {fileID: 6516448}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1635,8 +1635,8 @@ GameObject:
   m_Name: treeB (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &154210
 GameObject:
@@ -1649,7 +1649,7 @@ GameObject:
   - component: {fileID: 3337894}
   - component: {fileID: 2321508}
   - component: {fileID: 6591496}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1668,12 +1668,12 @@ GameObject:
   - component: {fileID: 2380862}
   - component: {fileID: 9565514}
   - component: {fileID: 6538764}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &155912
 GameObject:
@@ -1686,7 +1686,7 @@ GameObject:
   - component: {fileID: 3319796}
   - component: {fileID: 2371438}
   - component: {fileID: 6548548}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1705,12 +1705,12 @@ GameObject:
   - component: {fileID: 2319524}
   - component: {fileID: 9573394}
   - component: {fileID: 6592598}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &156556
 GameObject:
@@ -1724,12 +1724,12 @@ GameObject:
   - component: {fileID: 2379430}
   - component: {fileID: 9557376}
   - component: {fileID: 6531952}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &157634
 GameObject:
@@ -1742,12 +1742,12 @@ GameObject:
   - component: {fileID: 3365662}
   - component: {fileID: 2393562}
   - component: {fileID: 6592456}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &158648
 GameObject:
@@ -1760,12 +1760,12 @@ GameObject:
   - component: {fileID: 3387928}
   - component: {fileID: 2330774}
   - component: {fileID: 6532402}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &159384
 GameObject:
@@ -1779,12 +1779,12 @@ GameObject:
   - component: {fileID: 2308100}
   - component: {fileID: 9551874}
   - component: {fileID: 6579034}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &159640
 GameObject:
@@ -1798,12 +1798,12 @@ GameObject:
   - component: {fileID: 2354506}
   - component: {fileID: 9510056}
   - component: {fileID: 6536010}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &160190
 GameObject:
@@ -1817,12 +1817,12 @@ GameObject:
   - component: {fileID: 2384056}
   - component: {fileID: 9503842}
   - component: {fileID: 6512318}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &160306
 GameObject:
@@ -1835,7 +1835,7 @@ GameObject:
   - component: {fileID: 3393374}
   - component: {fileID: 2390252}
   - component: {fileID: 6513216}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1854,12 +1854,12 @@ GameObject:
   - component: {fileID: 2363424}
   - component: {fileID: 9530082}
   - component: {fileID: 6525420}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &162798
 GameObject:
@@ -1873,12 +1873,12 @@ GameObject:
   - component: {fileID: 2326560}
   - component: {fileID: 9550538}
   - component: {fileID: 6577560}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &165000
 GameObject:
@@ -1895,8 +1895,8 @@ GameObject:
   m_Name: treeA (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &166204
 GameObject:
@@ -1909,7 +1909,7 @@ GameObject:
   - component: {fileID: 3341914}
   - component: {fileID: 2366144}
   - component: {fileID: 6597958}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1931,8 +1931,8 @@ GameObject:
   m_Name: treeB (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &167008
 GameObject:
@@ -1946,12 +1946,12 @@ GameObject:
   - component: {fileID: 2374344}
   - component: {fileID: 9521698}
   - component: {fileID: 6514500}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &167604
 GameObject:
@@ -1964,12 +1964,12 @@ GameObject:
   - component: {fileID: 3353780}
   - component: {fileID: 2346014}
   - component: {fileID: 6568278}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &167860
 GameObject:
@@ -1982,7 +1982,7 @@ GameObject:
   - component: {fileID: 3307004}
   - component: {fileID: 2393336}
   - component: {fileID: 6511760}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2000,12 +2000,12 @@ GameObject:
   - component: {fileID: 3389292}
   - component: {fileID: 2384660}
   - component: {fileID: 6543548}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &168810
 GameObject:
@@ -2022,8 +2022,8 @@ GameObject:
   m_Name: treeA (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &168960
 GameObject:
@@ -2037,12 +2037,12 @@ GameObject:
   - component: {fileID: 2343122}
   - component: {fileID: 9550110}
   - component: {fileID: 6596126}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &169336
 GameObject:
@@ -2055,12 +2055,12 @@ GameObject:
   - component: {fileID: 3300490}
   - component: {fileID: 2387010}
   - component: {fileID: 6513772}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &169570
 GameObject:
@@ -2073,12 +2073,12 @@ GameObject:
   - component: {fileID: 3383234}
   - component: {fileID: 2375860}
   - component: {fileID: 6507114}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &170528
 GameObject:
@@ -2091,12 +2091,12 @@ GameObject:
   - component: {fileID: 3309030}
   - component: {fileID: 2335250}
   - component: {fileID: 6508764}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &171372
 GameObject:
@@ -2110,12 +2110,12 @@ GameObject:
   - component: {fileID: 2364006}
   - component: {fileID: 9590152}
   - component: {fileID: 6560882}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &172770
 GameObject:
@@ -2129,12 +2129,12 @@ GameObject:
   - component: {fileID: 2324368}
   - component: {fileID: 9510568}
   - component: {fileID: 6512544}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &173208
 GameObject:
@@ -2147,12 +2147,12 @@ GameObject:
   - component: {fileID: 3339602}
   - component: {fileID: 2310622}
   - component: {fileID: 6567808}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &173426
 GameObject:
@@ -2165,12 +2165,12 @@ GameObject:
   - component: {fileID: 3398146}
   - component: {fileID: 2358646}
   - component: {fileID: 6562852}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &174402
 GameObject:
@@ -2183,12 +2183,12 @@ GameObject:
   - component: {fileID: 3346336}
   - component: {fileID: 2336306}
   - component: {fileID: 6574944}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &175084
 GameObject:
@@ -2202,12 +2202,12 @@ GameObject:
   - component: {fileID: 2316698}
   - component: {fileID: 9503752}
   - component: {fileID: 6516128}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &175772
 GameObject:
@@ -2220,7 +2220,7 @@ GameObject:
   - component: {fileID: 3355214}
   - component: {fileID: 2315222}
   - component: {fileID: 6554796}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2239,12 +2239,12 @@ GameObject:
   - component: {fileID: 2354536}
   - component: {fileID: 9552640}
   - component: {fileID: 6515314}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &181100
 GameObject:
@@ -2257,12 +2257,12 @@ GameObject:
   - component: {fileID: 3359118}
   - component: {fileID: 2384624}
   - component: {fileID: 6570242}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &181382
 GameObject:
@@ -2275,12 +2275,12 @@ GameObject:
   - component: {fileID: 3398682}
   - component: {fileID: 2304950}
   - component: {fileID: 6508586}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &181968
 GameObject:
@@ -2294,12 +2294,12 @@ GameObject:
   - component: {fileID: 2387320}
   - component: {fileID: 9512972}
   - component: {fileID: 6563488}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &182012
 GameObject:
@@ -2316,8 +2316,8 @@ GameObject:
   m_Name: treeB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &182272
 GameObject:
@@ -2334,8 +2334,8 @@ GameObject:
   m_Name: treeA (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &184554
 GameObject:
@@ -2349,12 +2349,12 @@ GameObject:
   - component: {fileID: 2307562}
   - component: {fileID: 9531582}
   - component: {fileID: 6560596}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &184840
 GameObject:
@@ -2367,12 +2367,12 @@ GameObject:
   - component: {fileID: 3377418}
   - component: {fileID: 2321098}
   - component: {fileID: 6525856}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &185200
 GameObject:
@@ -2385,12 +2385,12 @@ GameObject:
   - component: {fileID: 3367918}
   - component: {fileID: 2345592}
   - component: {fileID: 6538420}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &185908
 GameObject:
@@ -2404,12 +2404,12 @@ GameObject:
   - component: {fileID: 2343940}
   - component: {fileID: 9572140}
   - component: {fileID: 6540754}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &186484
 GameObject:
@@ -2423,12 +2423,12 @@ GameObject:
   - component: {fileID: 2345696}
   - component: {fileID: 9535828}
   - component: {fileID: 6571402}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &188378
 GameObject:
@@ -2442,12 +2442,12 @@ GameObject:
   - component: {fileID: 2362814}
   - component: {fileID: 9599808}
   - component: {fileID: 6554258}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &188488
 GameObject:
@@ -2462,7 +2462,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &188668
 GameObject:
@@ -2472,7 +2472,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 444422}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: green_zoneA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2494,8 +2494,8 @@ GameObject:
   m_Name: treeA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &190366
 GameObject:
@@ -2508,7 +2508,7 @@ GameObject:
   - component: {fileID: 3320762}
   - component: {fileID: 2383962}
   - component: {fileID: 6555992}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2527,12 +2527,12 @@ GameObject:
   - component: {fileID: 2319560}
   - component: {fileID: 9560210}
   - component: {fileID: 6584286}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &190896
 GameObject:
@@ -2546,12 +2546,12 @@ GameObject:
   - component: {fileID: 2391552}
   - component: {fileID: 9544394}
   - component: {fileID: 6598824}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &190980
 GameObject:
@@ -2564,12 +2564,12 @@ GameObject:
   - component: {fileID: 3385228}
   - component: {fileID: 2346168}
   - component: {fileID: 6509226}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &191592
 GameObject:
@@ -2583,12 +2583,12 @@ GameObject:
   - component: {fileID: 2371320}
   - component: {fileID: 9540238}
   - component: {fileID: 6589144}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &191636
 GameObject:
@@ -2601,12 +2601,12 @@ GameObject:
   - component: {fileID: 3315152}
   - component: {fileID: 2353258}
   - component: {fileID: 6552734}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &192236
 GameObject:
@@ -2620,12 +2620,12 @@ GameObject:
   - component: {fileID: 2310912}
   - component: {fileID: 9551694}
   - component: {fileID: 6549948}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &193276
 GameObject:
@@ -2642,8 +2642,8 @@ GameObject:
   m_Name: treeB (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &193358
 GameObject:
@@ -2657,12 +2657,12 @@ GameObject:
   - component: {fileID: 2337730}
   - component: {fileID: 9521518}
   - component: {fileID: 6541948}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &193470
 GameObject:
@@ -2675,12 +2675,12 @@ GameObject:
   - component: {fileID: 3399858}
   - component: {fileID: 2383130}
   - component: {fileID: 6523708}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &194112
 GameObject:
@@ -2693,12 +2693,12 @@ GameObject:
   - component: {fileID: 3376356}
   - component: {fileID: 2375106}
   - component: {fileID: 6584188}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &194266
 GameObject:
@@ -2715,8 +2715,8 @@ GameObject:
   m_Name: treeA (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &194642
 GameObject:
@@ -2730,12 +2730,12 @@ GameObject:
   - component: {fileID: 2339796}
   - component: {fileID: 9595056}
   - component: {fileID: 6508802}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &194914
 GameObject:
@@ -2748,12 +2748,12 @@ GameObject:
   - component: {fileID: 3315508}
   - component: {fileID: 2357726}
   - component: {fileID: 6598236}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &195478
 GameObject:
@@ -2767,12 +2767,12 @@ GameObject:
   - component: {fileID: 2366554}
   - component: {fileID: 9594580}
   - component: {fileID: 6597262}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &196006
 GameObject:
@@ -2786,12 +2786,12 @@ GameObject:
   - component: {fileID: 2374494}
   - component: {fileID: 9541936}
   - component: {fileID: 6567252}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &196178
 GameObject:
@@ -2805,12 +2805,12 @@ GameObject:
   - component: {fileID: 2363082}
   - component: {fileID: 9507888}
   - component: {fileID: 6525992}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &197088
 GameObject:
@@ -2823,12 +2823,12 @@ GameObject:
   - component: {fileID: 3375580}
   - component: {fileID: 2328714}
   - component: {fileID: 6591876}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &197952
 GameObject:
@@ -2841,7 +2841,7 @@ GameObject:
   - component: {fileID: 3369708}
   - component: {fileID: 2382772}
   - component: {fileID: 6583494}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2860,12 +2860,12 @@ GameObject:
   - component: {fileID: 2350708}
   - component: {fileID: 9577472}
   - component: {fileID: 6584506}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &199240
 GameObject:
@@ -2879,12 +2879,12 @@ GameObject:
   - component: {fileID: 2310270}
   - component: {fileID: 9571774}
   - component: {fileID: 6597884}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &199538
 GameObject:
@@ -2897,12 +2897,12 @@ GameObject:
   - component: {fileID: 3355382}
   - component: {fileID: 2312208}
   - component: {fileID: 6505892}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: box (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &199712
 GameObject:
@@ -2916,12 +2916,12 @@ GameObject:
   - component: {fileID: 2338478}
   - component: {fileID: 9530952}
   - component: {fileID: 6574526}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: boxB (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &400176
 Transform:

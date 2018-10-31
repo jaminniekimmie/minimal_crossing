@@ -63,13 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CharacterAnimator.cs" />
-    <Compile Include="Assets\Scripts\controller.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\ItemPickup.cs" />
-    <Compile Include="Assets\Scripts\MecanimButton.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
-    <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
+    <Compile Include="Assets\Scripts\pre\controller.cs" />
+    <Compile Include="Assets\Scripts\pre\MecanimButton.cs" />
+    <Compile Include="Assets\Scripts\pre\ThirdPersonCamera.cs" />
     <None Include="Assets\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
     <None Include="Assets\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
     <None Include="Assets\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />

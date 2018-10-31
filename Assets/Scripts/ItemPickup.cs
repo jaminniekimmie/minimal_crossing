@@ -1,16 +1,17 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class ItemPickup : MonoBehaviour {
+public class ItemPickup : Interactable {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public override void Interact()
+    {
+        base.Interact();
+
+        PickUp();
+    }
+
+    void PickUp()
+    {
+        Debug.Log("Picking up item");
+        Destroy(gameObject);
+    }
 }

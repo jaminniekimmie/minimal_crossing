@@ -2,7 +2,7 @@
 
 public class Interactable : MonoBehaviour {
 
-    public float radius = 3f;
+    public float radius = 1f;
     public Transform interactionTransform;
 
     bool isFocus = false;
@@ -22,6 +22,7 @@ public class Interactable : MonoBehaviour {
             float distance = Vector3.Distance(player.position, interactionTransform.position);
             if (distance <= radius)
             {
+                Interact();
                 hasInteracted = true;
             }
         }
@@ -43,6 +44,10 @@ public class Interactable : MonoBehaviour {
 
     private void OnDrawGizmosSelected()
     {
+        if (interactionTransform == null)
+        {
+            interactionTransform = transform;
+        }
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(interactionTransform.position, radius);
     }
